@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="GroovyFX">
+    <CLASSES>
+      <root url="file://C:/Program Files/Oracle/Groovy FX 0.1 SNAPSHOT" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://C:/Program Files/Oracle/Groovy FX 0.1 SNAPSHOT" recursive="false" />
+  </library>
+</component>

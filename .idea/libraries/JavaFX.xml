@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="JavaFX">
+    <CLASSES>
+      <root url="file://C:/Program Files/Oracle/JavaFX 2.0 SDK/rt/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://C:/Program Files/Oracle/JavaFX 2.0 SDK/rt/lib" recursive="false" />
+  </library>
+</component>
