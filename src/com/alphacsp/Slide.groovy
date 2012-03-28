@@ -16,10 +16,10 @@ class Slide {
                 def iv1 = new ImageView(new Image("../../../images/001.jpg"))
                 new Slide(iv1, TransitionBuilder.fadeTransition(iv1))
             }.call(),
-            {
+           /* {
                 def iv2 = new ImageView(new Image("../../../images/002.jpg"))
                 new Slide(iv2, TransitionBuilder.fadeTransition(iv2))
-            }.call(),
+            }.call(),*/
             /*{
                 def iv2 = new ImageView(new Image("../../../images/003.jpg"))
                 new Slide(iv2, TransitionBuilder.scaleTransition(iv2))
